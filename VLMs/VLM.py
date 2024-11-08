@@ -34,14 +34,18 @@ Returns:
 import open_clip
 import torch
 from PIL import Image
+import os
 from pathlib import Path
 import matplotlib.pyplot as plt
 
+PATH = os.path.join(os.path.dirname(__file__), "images")
+
 model, _, preprocess = open_clip.create_model_and_transforms('ViT-B-32', pretrained='openai', device='cpu')
 
-image_folder = Path("/Users/hugoarsenio1/Desktop/YOLO/ProjectVLM/images")
+image_folder = Path(PATH)
 image_paths = list(image_folder.glob("*.png"))
 images = [Image.open(image_path) for image_path in image_paths]
+
 
 captions = [
     "When you realize it’s Monday.",
