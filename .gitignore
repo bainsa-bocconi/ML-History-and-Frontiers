@@ -1,0 +1,2 @@
+# Ignore macOS folder metadata files
+.DS_Store
