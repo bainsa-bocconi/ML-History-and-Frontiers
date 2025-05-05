@@ -1,5 +1,4 @@
-# ML History and Frontiers
-<img width="100" alt="Image" src="https://github.com/user-attachments/assets/e0efca97-238c-4c40-a7bc-52eb653accc1" />
+# ML History and Frontiers    <img width="100" alt="Image" src="https://github.com/user-attachments/assets/e0efca97-238c-4c40-a7bc-52eb653accc1" />
 
 The ML History and Frontiers repository is the central hub for all presentations held during our association's meeting. Our goal is to explore advanced topics, spread their core intuition and the potential applications through real word examples. 
 As a team, and as a group of tech enthusiasts, we are very proud to keep this repository up to date, with the latest tech developments, and well organized. 
