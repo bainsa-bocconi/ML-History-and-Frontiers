@@ -10,6 +10,7 @@ This important activity stands between the our efforts in media outreach and res
   - Bias in LLMs
 - Computer Vision
   - Unsupervised Visual Representation Learning by Context Prediction
+  - YOLO
 - Dimensionality reduction
   - Laplacian Eigenmaps
   - t-SNE
