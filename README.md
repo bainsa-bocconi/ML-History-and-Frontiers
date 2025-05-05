@@ -5,11 +5,20 @@ This important activity stands between the our efforts in media outreach and res
 
 ## Macro themes and projects you can find are:
 - Natural Lenguage Processing
+  - Word Embeddings and Trasformers
+  - BERT
+  - Bias in LLMs
 - Computer Vision
+  - Unsupervised Visual Representation Learning by Context Prediction
 - Dimensionality reduction
+  - Laplacian Eigenmaps
+  - t-SNE
 - Applications of ML
+  - AI in medicine
 - Multimodal Learning
+  - Vision lenguage models
 - Neural Network Architecture
+  - Boltzmann Machines
 - Reinforcement Learning
 
 ## Project you’ll find:
